@@ -1,9 +1,9 @@
-# 4-Quadrant Bipolar Power Supply
+# 4-Quadrant CVCC Power Supply
 
-4-Quadrant Bipolar Power Supply with LPC1768 and LT1970A power OPAMP.<br>
+4-Quadrant CVCC Power Supply with LPC1768 and LT1970A power OPAMP.<br>
 It has a power channel of +-12V/1A source/sink.<br>
 Python code is a software frontpanel script.<br>
 PCB is available from https://ghz-ws.booth.pm/items/4923288
-![IMG_5156](https://github.com/ghz-ws/LPC1768-High-power-Bipolar-PSU/assets/52226620/f703f011-61be-42e2-abf0-4827c1ad1d17)
-![FWKcqabUIAAkzq0](https://github.com/ghz-ws/LPC1768-High-power-Bipolar-PSU/assets/52226620/c94d4c44-c10e-4b3d-9d95-a756b3e66f17)
-![DSC_0002](https://github.com/ghz-ws/LPC1768-High-power-Bipolar-PSU/assets/52226620/eeafaec9-d41c-4bae-9598-f9e739257f51)
+![IMG_5636](https://github.com/ghz-ws/LPC1768-High-power-Bipolar-PSU/assets/52226620/57194c0f-98d1-42af-89bf-8651518150d4)
+![IMG_5639](https://github.com/ghz-ws/LPC1768-High-power-Bipolar-PSU/assets/52226620/32dd1b1f-7e2b-4d2b-aab0-893bdaba33a9)
+![IMG_5638](https://github.com/ghz-ws/LPC1768-High-power-Bipolar-PSU/assets/52226620/6217d91f-026a-4aa2-9b8a-e6d8139972f1)
